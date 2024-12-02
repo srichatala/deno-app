@@ -1,5 +1,6 @@
 # deno-app: 
 Clone repo run the following commands
+## API
 
 `deno-app>api>deno run --allow-all --watch  main.ts`
 
@@ -19,6 +20,8 @@ I observed, api response is less than 500 ms even to get 14k rows.
 after reload page
 
 ![image](https://github.com/user-attachments/assets/a5375394-5bf0-403f-9303-a9f1ed2a5162)
+
+## React-App
 
 Resouces: 
 - [deno](https://deno.com/)
